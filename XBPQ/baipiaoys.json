@@ -1,0 +1,6 @@
+{    "播放链接":"href=\"&&\"",
+    "跳转播放链接": "https://www.baipiao-ys.cc:6062/player/analysis.php?v=+vod_director*\"url\":\"&&\"",
+    
+    "分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+    "分类url":"https://baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+}
